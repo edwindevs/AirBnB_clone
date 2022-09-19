@@ -1,0 +1,23 @@
+body {
+<<<<<<< HEAD
+    margin: 0;
+    padding: 0;
+    color: #484848;
+    font-size: 14px;
+    font-family: Circular, "Helvetica Neue", Helvetica, Arial, sans-serif;
+=======
+    padding: 0;
+    margin: 0;
+    font-size: 14px;
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+>>>>>>> 609421b453560090372d1db16e15fc5384933a2e
+}
+
+.container{
+    max-width: 1000px;
+<<<<<<< HEAD
+    width: 100%;
+=======
+>>>>>>> 609421b453560090372d1db16e15fc5384933a2e
+    margin: 30px auto;
+}

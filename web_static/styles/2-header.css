@@ -1,0 +1,13 @@
+header {
+<<<<<<< HEAD
+    width: 100%;
+    position: fixed;
+    background-color: #ff0000;
+    height: 70px;
+    top: 0;
+=======
+    background-color: red;
+    height: 70px;
+    width: 100%;
+>>>>>>> 609421b453560090372d1db16e15fc5384933a2e
+}
